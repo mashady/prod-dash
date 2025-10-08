@@ -63,12 +63,12 @@ Cards adjust automatically for different screen sizes.
 
 ---
 
-## 💻 Deployment
+<!-- ## 💻 Deployment
 
 * [Netlify](https://www.netlify.com/)
 
 
----
+--- -->
 
 ## 🧑‍💻 Author
 
